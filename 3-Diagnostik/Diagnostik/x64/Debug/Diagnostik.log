@@ -1,0 +1,15 @@
+﻿  Main.cpp
+C:\Users\zeyne\Downloads\ICBYTES_S_TR (2)\3-Diagnostik\Diagnostik\Main.cpp(1975,30): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\zeyne\Downloads\ICBYTES_S_TR (2)\3-Diagnostik\Diagnostik\Main.cpp(2056,43): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\zeyne\Downloads\ICBYTES_S_TR (2)\3-Diagnostik\Diagnostik\Main.cpp(2057,37): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\zeyne\Downloads\ICBYTES_S_TR (2)\3-Diagnostik\Diagnostik\Main.cpp(2059,29): warning C4566: '\U0001F680' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+C:\Users\zeyne\Downloads\ICBYTES_S_TR (2)\3-Diagnostik\Diagnostik\Main.cpp(2068,18): warning C4244: '+=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\zeyne\Downloads\ICBYTES_S_TR (2)\3-Diagnostik\Diagnostik\Main.cpp(2069,18): warning C4244: '+=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\zeyne\Downloads\ICBYTES_S_TR (2)\3-Diagnostik\Diagnostik\Main.cpp(2080,33): warning C4566: '\u2705' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+C:\Users\zeyne\Downloads\ICBYTES_S_TR (2)\3-Diagnostik\Diagnostik\Main.cpp(2118,33): warning C4566: '\u26A0' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+C:\Users\zeyne\Downloads\ICBYTES_S_TR (2)\3-Diagnostik\Diagnostik\Main.cpp(2135,33): warning C4566: '\u2705' evrensel karakter adı ile temsil edilen karakter şu anki kod sayfasında (1254) temsil gösterilemiyor
+ICBYTESx64Debug.lib(icbytes.obj) : warning LNK4099: PDB '', 'ICBYTESx64Debug.lib(icbytes.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+ICBYTESx64Debug.lib(ic_media.obj) : warning LNK4099: PDB '', 'ICBYTESx64Debug.lib(ic_media.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+ICBYTESx64Debug.lib(icb_gui.obj) : warning LNK4099: PDB '', 'ICBYTESx64Debug.lib(icb_gui.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+ICBYTESx64Debug.lib(jpgd.obj) : warning LNK4099: PDB '', 'ICBYTESx64Debug.lib(jpgd.obj)' ile veya '' üzerinde bulunamadı; nesne, hata ayıklama bilgileri yokmuş gibi bağlanıyor
+  Diagnostik.vcxproj -> C:\Users\zeyne\Downloads\ICBYTES_S_TR (2)\3-Diagnostik\x64\Debug\Diagnostik.exe

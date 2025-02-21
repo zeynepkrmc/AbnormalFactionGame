@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zeyne\\Downloads\\ICBYTES_S_TR (2)\\3-Diagnostik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E364AA53-CA7E-47B6-B319-0873F55C8DEC}|Diagnostik\\Diagnostik.vcxproj|C:\\Users\\zeyne\\Downloads\\ICBYTES_S_TR (2)\\3-Diagnostik\\Diagnostik\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E364AA53-CA7E-47B6-B319-0873F55C8DEC}|Diagnostik\\Diagnostik.vcxproj|solutionrelative:Diagnostik\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\zeyne\\Downloads\\ICBYTES_S_TR (2)\\3-Diagnostik\\Diagnostik\\Main.cpp",
+              "RelativeDocumentMoniker": "Diagnostik\\Main.cpp",
+              "ToolTip": "C:\\Users\\zeyne\\Downloads\\ICBYTES_S_TR (2)\\3-Diagnostik\\Diagnostik\\Main.cpp",
+              "RelativeToolTip": "Diagnostik\\Main.cpp",
+              "ViewState": "AgIAAG4IAAAAAAAAAAAAAEoIAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-10T14:03:48.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
